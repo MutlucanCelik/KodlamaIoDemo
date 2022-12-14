@@ -1,4 +1,4 @@
-## Kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
+## Kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride simüle istiyoruz.
 
 
 ### Aşağıdaki isterleri gerçekleştiriniz.
